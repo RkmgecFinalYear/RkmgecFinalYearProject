@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RkmgecFinalYearProject/static/css/main.05f64dc8.chunk.css",
+    "main.js": "/RkmgecFinalYearProject/static/js/main.1e6ad485.chunk.js",
+    "main.js.map": "/RkmgecFinalYearProject/static/js/main.1e6ad485.chunk.js.map",
+    "runtime-main.js": "/RkmgecFinalYearProject/static/js/runtime-main.8849e475.js",
+    "runtime-main.js.map": "/RkmgecFinalYearProject/static/js/runtime-main.8849e475.js.map",
+    "static/css/2.4659568d.chunk.css": "/RkmgecFinalYearProject/static/css/2.4659568d.chunk.css",
+    "static/js/2.5fc532b5.chunk.js": "/RkmgecFinalYearProject/static/js/2.5fc532b5.chunk.js",
+    "static/js/2.5fc532b5.chunk.js.map": "/RkmgecFinalYearProject/static/js/2.5fc532b5.chunk.js.map",
+    "static/js/3.78db668a.chunk.js": "/RkmgecFinalYearProject/static/js/3.78db668a.chunk.js",
+    "static/js/3.78db668a.chunk.js.map": "/RkmgecFinalYearProject/static/js/3.78db668a.chunk.js.map",
+    "index.html": "/RkmgecFinalYearProject/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/RkmgecFinalYearProject/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.05f64dc8.chunk.css.map": "/RkmgecFinalYearProject/static/css/main.05f64dc8.chunk.css.map",
+    "static/js/2.5fc532b5.chunk.js.LICENSE.txt": "/RkmgecFinalYearProject/static/js/2.5fc532b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8849e475.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.5fc532b5.chunk.js",
+    "static/css/main.05f64dc8.chunk.css",
+    "static/js/main.1e6ad485.chunk.js"
+  ]
+}
