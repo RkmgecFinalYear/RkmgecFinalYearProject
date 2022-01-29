@@ -20,6 +20,19 @@ body {
   background-size: cover;
   opacity: 1;
 }
+.rules {
+  border-radius: 10px;
+  border: 3px solid black;
+  background-color: honeydew;
+  margin-top: 2%;
+  font-size: large;
+  font-weight: 500;
+  padding: 15px 64px;
+}
+h1 {
+  margin-left: 8%;
+  color: rgb(8, 7, 7);
+}
 *
 /* .header {
   text-align: center;
@@ -109,6 +122,19 @@ body {
   font-size: 1.6rem;
   font-weight: 900;
   color: black;
+  margin: 2px 2px 7px 70px;
+}
+.btn1 {
+  background: rgb(160, 55, 55);
+  padding: 5px 60px;
+  background-size: 1.2rem;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 28px;
+  border: 3px solid black;
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: black;
+  margin: 2px 70px;
 }
 .answer-button {
   background: rgb(70, 206, 230);
